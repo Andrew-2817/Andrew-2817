@@ -30,13 +30,9 @@
   <a href="mailto:truhanandrey991@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="tel:+79154314704">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
-  </a>
 </p>
 
 <p align="center">
-  ✉️ <a href="mailto:truhanandrey991@gmail.com">truhanandrey991@gmail.com</a><br>
   📞 +7 915 431-47-04
 </p>
 
